@@ -48,7 +48,7 @@
 
 ## 🚀 Featured Architecture
 
-### 1. [Project Nexus: Enterprise Workflow State Machine & RAG Platform](https://github.com/ckCrimson/Nexus-Workflow-Management-Tool-.git)
+### 1. [Project Nexus: Enterprise Workflow State Machine & RAG Platform](https://github.com/adityakumar565/Project-Nexus.git)
 **Tech:** Java, Spring Boot, React.js, Python, FastAPI, LangChain4j, Spring AI, PostgreSQL.
 
 *An enterprise-grade workflow management tool designed to dynamically plan tasks, compute optimal execution paths, and deliver context-aware AI recommendations for goal achievement.*
