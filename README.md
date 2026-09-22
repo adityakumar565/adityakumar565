@@ -48,7 +48,18 @@
 
 ## 🚀 Featured Architecture
 
-### 1. [Project Nexus: Enterprise Workflow State Machine & RAG Platform](https://github.com/adityakumar565/Project-Nexus.git)
+### 1. [Dynamic Heuristic Pathfinding AI Engine](https://github.com/adityakumar565/Dynamic-Field-Learning-Systems.git)
+**Tech:** Java 17, Python, Pandas, Matplotlib, Data-Oriented Design (DOD).
+
+*An algorithmic AI model built from mathematical first principles (Information-Based Dynamic Systems) that trains agents to navigate complex, constraint-based terrain without relying on LLM wrappers.*
+
+* **The Architecture:** Engineered a highly decoupled, interface-driven Java core that evaluates multiple logical steps by following mathematically generated "fields" and Evolutionary optimizers.
+* **The Optimization:** Adopted strict Data-Oriented Design (DOD) to simulate 10,000 learning agents simultaneously at 60 FPS. Flattened agent data and state spaces into contiguous primitive arrays (`double[][][]`) to maximize L1/L2 CPU cache hits.
+* **The Interface:** Wrapped the high-performance memory operations in a clean Object-Oriented Programming (OOP) layer, balancing raw compute speed with a developer-friendly API.
+* **The Visualization:** Decoupled the ML optimizer into a dedicated Python pipeline, dynamically plotting agent evolution from erratic guessing to mathematically perfect trajectories using Matplotlib.
+<br>
+
+### 2. [Project Nexus: Enterprise Workflow State Machine & RAG Platform](https://github.com/adityakumar565/Project-Nexus.git)
 **Tech:** Java, Spring Boot, React.js, Python, FastAPI, LangChain4j, Spring AI, PostgreSQL.
 
 *An enterprise-grade workflow management tool designed to dynamically plan tasks, compute optimal execution paths, and deliver context-aware AI recommendations for goal achievement.*
@@ -60,7 +71,7 @@
 * **The Metrics:** Traversed complex graph trees across 50,000+ mock nodes using PostgreSQL recursive CTEs—entirely eliminating N+1 query bottlenecks and achieving sub-15ms execution times.
 <br>
 
-### 2. [Discrete State Engine (FDS Framework)](https://github.com/ckCrimson/discrete-state-engine)
+### 3. [Discrete State Engine (FDS Framework)](https://github.com/ckCrimson/discrete-state-engine)
 **Tech:** Python, JAX, Numba, Object-Oriented Design (OOD), Data-Oriented Design (DOD).
 
 *A stochastic physics engine engineered to bypass Python's computational overhead in complex iterative environments.*
